@@ -59,7 +59,9 @@ h1 {
     width: 100%;
     margin-bottom: 10px;
     background-position: center;
-    background-size:cover;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-color: #fff;
 
 }
 
